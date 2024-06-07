@@ -39,7 +39,7 @@ Before proceeding, here are some tips for managing your emotions:
 5. **Physical Comfort:** If comfortable, consider gentle touch for reassurance.
 """)
 
-video_file = '/Users/avishkarborkar/Desktop/FY Project/videoplayback.mp4' # Replace with your video URL
+video_file = 'videoplayback.mp4' # Replace with your video URL
 #video_play_button = st.button("Play Video")
 
 st.video(video_file)
